@@ -1,11 +1,11 @@
 #!/usr/bin/python
 import os
 
-import boto
-from boto.s3.connection import S3Connection
-from boto.s3.key import Key
+#import boto
+#from boto.s3.connection import S3Connection
+#from boto.s3.key import Key
 
-print "Hello boto"
+#print "Hello boto"
 
 result = {
     "project": "twb-firmware",
